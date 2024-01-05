@@ -1,5 +1,5 @@
 # Docker
--- sudo apt update
+### sudo apt update
 -- git clone <link>
 -- (cd into docker file folder)
 -- sudo apt install npm
